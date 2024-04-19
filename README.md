@@ -49,7 +49,10 @@ __Shrinkage Methods__
 
 __Dimensionality Reduction Methods (in progress)__
 - Principal Components Regression (PCR)
- - Since the mathematical induction and applications of Principal Components Analysis (PCA) is extensive, I have created a separate repo.
+
 - Partial Least Squares (PLS)
 
+<div style="border: 1px solid black; padding: 10px;">
+Since the mathematical induction and applications of Principal Components Analysis (PCA) is extensive, I have created a separate repository for this.
+</div>
 
